@@ -93,6 +93,13 @@ tensorflow      1.10.0
 ahocorasick    （安装方法 pip install pyahocorasick）
 ```
 
+run the command for install all the requirement by:
+
+```
+pip install -r requirement.txt
+```
+
+
 必要说明：
 
 ```
